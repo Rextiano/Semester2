@@ -5,6 +5,8 @@
 #include <Windows.h>
 #include "Profile1.h"
 #include "Profile2.h"
+#include "Profile3.h"
+#include "Profile4.h"
 
 using namespace std;
 
