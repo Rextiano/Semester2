@@ -34,13 +34,13 @@ int main(void) {
 		case 3:
 			cout << "profile 3 chosen \n";
 			while (1) {
-				//profileFunction3();
+				profileFunction3();
 			}
 			break;
 		case 4:
 			cout << "profile 4 chosen \n";
 			while (1) {
-				//profileFunction4();
+				profileFunction4();
 			}
 			break;
 		}
